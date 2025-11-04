@@ -1,0 +1,18 @@
+# Enhanced Climate Job Scraper Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core web scraping
+requests>=2.32.3
+beautifulsoup4>=4.12.2
+lxml>=4.9.4
+
+# Data processing
+pandas>=2.2.3
+openpyxl>=3.1.2
+
+# Utilities
+python-dateutil>=2.8.2
+
+# Optional but recommended for better parsing
+html5lib>=1.1
+urllib3>=2.0.0
